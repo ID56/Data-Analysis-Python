@@ -1,6 +1,2 @@
 # Data-Analysis-Python
-Before working on any particular machine learning problem, it is a reasonably decent idea to explore the given data first. Here's some of the exploratory data analysis I usually use.
-
-Libraries used: Numpy, pandas, scikit-learn, scipy, seaborn, matplotlib.
-
-Data: The Ames Housing Dataset, from kaggle. Original source: http://www.amstat.org/publications/jse/v19n3/decock/AmesHousing.xls 
+Before jumping headfirst into any machine learning problem, we need to get the lay of the land. Or more accurately, the lay of the <i>data.</i> Here's a ready to go collection of various EDA techniques that will offer useful insights about whatever problem you're working on.
